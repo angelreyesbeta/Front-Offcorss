@@ -93,10 +93,22 @@
     margin: auto;
     display: flex;
     justify-content: space-between;
-    position: sticky;
-    z-index: 2000;
+     
     
 }
+.container-menu2-scroll{
+    display: flex;
+    justify-content: space-between;
+    top: 0;
+    position: fixed;
+    z-index: 2000;     
+    height: 49px;
+    width: 100%;
+    padding: 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 1.5);
+}
+
+
 .icon-menu{
     margin-right: 10px;
     color: dodgerblue;
@@ -117,6 +129,17 @@
     align-items: center;
     
 }
+.logo-gif{
+    width: 100px;
+    display: none;
+}
+.container-menu2-scroll .logo-gif{
+    display: block;  
+}
+.container-menu2-scroll .icon-menu{
+    display: none;  
+}
+
 .nav-2 a{
 
     color: rgb(59, 59, 59);
