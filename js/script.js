@@ -1,7 +1,5 @@
 AOS.init();
 
-
-
 let nav_2 = document.getElementById('nav-2');
 
 function menus(){

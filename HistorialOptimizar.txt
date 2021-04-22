@@ -1,0 +1,16 @@
+31 paquetes -> 7.3MB
+37 paquetes en total 21.2mb
+
+31 paquetes -> 4.7MB
+37 paquetes en total -> 6.9MB
+
+31 paquetes -> 4MB
+37 paquetes en total -> 5.4MB
+
+31 paquetes -> 3.8MB
+37 paquetes en total -> 5.2MB
+
+27 paquetes en total 1.1MG
+
+31 paquetes -> 1.1MB
+38 paquetes en total -> 1.8MB
